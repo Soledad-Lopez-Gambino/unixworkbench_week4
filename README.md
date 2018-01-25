@@ -16,4 +16,4 @@ Three of my favorite dog names are:
 
 ### Organization
 
-I organize myself using [SlimTimer](www.slimtimer.com).
+I organize myself using [SlimTimer](slimtimer.com).
